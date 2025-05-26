@@ -54,6 +54,6 @@
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gurram-mani-karthik-38bb771a3/) *(update link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/gurram-mani-karthik-38bb771a3/)
 - 🧑‍💻 [GitHub](https://github.com/Gurram2001)
 
