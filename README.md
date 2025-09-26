@@ -1,7 +1,8 @@
 # Hi, I'm Gurram Mani Karthik
 
  **Aspiring Cloud & DevOps Engineer** with hands-on experience building CI/CD pipelines, containerized applications, infrastructure automation, and cloud monitoring on Azure and AWS.
-
+ Worked with **BizTalk, Azure DevOps, Azure Cloud Resources** in Accenture
+Looking forward to contribute to enterprise level Applications.
 ---
 
 ## Projects
